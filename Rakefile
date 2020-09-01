@@ -26,4 +26,4 @@ namespace :db do
   end
 end
 
-desc 
+desc 'drop into the Pry console'
